@@ -1,4 +1,4 @@
-# Bot Whatsapp By Zhirrr
+# Bot Whatsapp
 
 <p align="center">
 <a href="#"><img title="BOT WHATSAPP" src="https://img.shields.io/badge/Bot Whatsapp-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
